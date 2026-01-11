@@ -1,0 +1,10 @@
+# 忽略 node_modules 龐大的套件資料夾
+node_modules/
+
+# 忽略私密的環境變數檔案
+.env
+.env.local
+.env.development.local
+
+# 忽略打包後的資料夾
+dist/
